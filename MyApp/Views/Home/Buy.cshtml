@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "Покупка билета";
+}
+
+<div>
+    <h3>Форма оформления билета</h3>
+        <form method="post">
+            <input type="hidden" value="@ViewBag.AirId" name="AirId" />
+            <table>
+                <tr>
+                    <td><p>Введите свое имя: </p></td>
+                    <td><input required type="text" name="Person" /> </td>
+                </tr>
+                <tr>
+                    <td><p>Введите свою фамилию: </p></td>
+                    <td><input required type="text" name="LastName" /> </td>
+                </tr>
+                <tr>
+                    <td><p>Введите серию паспорта: </p></td>
+                    <td><input required type="text" name="Serial" /> </td>
+                </tr>
+                <tr>
+                    <td><p>Выбирите класс: </p></td>
+                    <td>
+                        <select>
+                            <option type="text" name="Class"> 1 </option>
+                            <option type="text" name="Class"> 2 </option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td><p>Введите email: </p></td>
+                    <td>
+                        <input required type="text" name="Address" />
+                    </td>
+                </tr>
+                <tr><td><input type="submit" value="Купить" /> </td><td></td></tr>
+            </table>
+        </form>
+</div>
+
+
+

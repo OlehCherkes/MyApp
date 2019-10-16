@@ -1,0 +1,43 @@
+﻿@using MyApp.Bussiness.EntityConfiguration.Models;
+@model IEnumerable<AirInfo>
+
+<div id="searchresults">
+    <h3>Найденные рейсы: @Model.First().Direction</h3>
+ 
+        <table class="sort" align="center">
+            <thead>
+                <tr>
+                    <td>№</td>
+                    <td>Время отправления &nbsp;</td>
+                    <td>Направление &nbsp;</td>
+                    <td>Рейс &nbsp;</td>
+                    <td>Перевозщик &nbsp;</td>
+                    <td>Время посадки &nbsp;</td>
+                    <td>Перон &nbsp;</td>
+                    <td>Статус &nbsp;</td>
+                    <td>Цена 1K &nbsp;</td>
+                    <td>Цена 2K &nbsp;</td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td><p>@item.Id</p></td>
+                        <td><p>@item.Time</p></td>
+                        <td><p>@item.Direction</p></td>
+                        <td><p>@item.Var</p></td>
+                        <td><p>@item.Avia</p></td>
+                        <td><p>@item.Posadka </p></td>
+                        <td><p>@item.Perron</p></td>
+                        <td><p><font color="red">@item.Status</font></p></td>
+                        <td><p>@item.Price1</p></td>
+                        <td><p>@item.Price2</p></td>
+                        <td><p><a href="/Home/Buy/@item.Id">Купить &nbsp;</a></p></td>
+                        <td><p><a href="/Home/Info/@item.Id">Пассажиры &nbsp;</a></p></td>
+                    </tr>
+                  }
+            </tbody>
+        </table>
+</div>
+

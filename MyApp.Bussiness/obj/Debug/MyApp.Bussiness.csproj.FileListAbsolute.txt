@@ -1,0 +1,24 @@
+C:\Users\Oleh Cherkes\source\repos\MyApp\MyApp.Bussiness\bin\Debug\MyApp.Bussiness.dll.config
+C:\Users\Oleh Cherkes\source\repos\MyApp\MyApp.Bussiness\bin\Debug\MyApp.Bussiness.dll
+C:\Users\Oleh Cherkes\source\repos\MyApp\MyApp.Bussiness\bin\Debug\MyApp.Bussiness.pdb
+C:\Users\Oleh Cherkes\source\repos\MyApp\MyApp.Bussiness\bin\Debug\EntityFramework.dll
+C:\Users\Oleh Cherkes\source\repos\MyApp\MyApp.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oleh Cherkes\source\repos\MyApp\MyApp.Bussiness\bin\Debug\EntityFramework.xml
+C:\Users\Oleh Cherkes\source\repos\MyApp\MyApp.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oleh Cherkes\source\repos\MyApp\MyApp.Bussiness\obj\Debug\MyApp.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Oleh Cherkes\source\repos\MyApp\MyApp.Bussiness\obj\Debug\MyApp.Bussiness.csproj.CopyComplete
+C:\Users\Oleh Cherkes\source\repos\MyApp\MyApp.Bussiness\obj\Debug\MyApp.Bussiness.dll
+C:\Users\Oleh Cherkes\source\repos\MyApp\MyApp.Bussiness\obj\Debug\MyApp.Bussiness.pdb
+C:\Users\Oleh Cherkes\source\repos\MyApp\MyApp.Bussiness\obj\Debug\MyApp.Bussiness.csprojAssemblyReference.cache
+C:\Users\Oleh Cherkes\Desktop\Новая папка (7)\MyApp\MyApp.Bussiness\bin\Debug\MyApp.Bussiness.dll.config
+C:\Users\Oleh Cherkes\Desktop\Новая папка (7)\MyApp\MyApp.Bussiness\bin\Debug\MyApp.Bussiness.dll
+C:\Users\Oleh Cherkes\Desktop\Новая папка (7)\MyApp\MyApp.Bussiness\bin\Debug\MyApp.Bussiness.pdb
+C:\Users\Oleh Cherkes\Desktop\Новая папка (7)\MyApp\MyApp.Bussiness\bin\Debug\EntityFramework.dll
+C:\Users\Oleh Cherkes\Desktop\Новая папка (7)\MyApp\MyApp.Bussiness\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Oleh Cherkes\Desktop\Новая папка (7)\MyApp\MyApp.Bussiness\bin\Debug\EntityFramework.xml
+C:\Users\Oleh Cherkes\Desktop\Новая папка (7)\MyApp\MyApp.Bussiness\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Oleh Cherkes\Desktop\Новая папка (7)\MyApp\MyApp.Bussiness\obj\Debug\MyApp.Bussiness.csprojAssemblyReference.cache
+C:\Users\Oleh Cherkes\Desktop\Новая папка (7)\MyApp\MyApp.Bussiness\obj\Debug\MyApp.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Oleh Cherkes\Desktop\Новая папка (7)\MyApp\MyApp.Bussiness\obj\Debug\MyApp.Bussiness.csproj.CopyComplete
+C:\Users\Oleh Cherkes\Desktop\Новая папка (7)\MyApp\MyApp.Bussiness\obj\Debug\MyApp.Bussiness.dll
+C:\Users\Oleh Cherkes\Desktop\Новая папка (7)\MyApp\MyApp.Bussiness\obj\Debug\MyApp.Bussiness.pdb
